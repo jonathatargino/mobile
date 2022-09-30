@@ -1,5 +1,12 @@
-# NLW Duos
+# NLW Duos - mobile
 versão mobile do projeto <a href="https://github.com/jonathatargino/web">NLW Duo</a>.
+<div>
+ <img src="https://github.com/jonathatargino/mobile/blob/main/assets/homepage.jpeg" width="250">
+ <img src="https://github.com/jonathatargino/mobile/blob/main/assets/gamepage.jpeg" width="250">
+ <img src="https://github.com/jonathatargino/mobile/blob/main/assets/match_modal.jpeg" width="250">
+</div>
+
+
 
 ## Como executar o projeto
 ### Pré-requisitos
